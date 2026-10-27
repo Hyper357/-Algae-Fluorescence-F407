@@ -1,0 +1,17 @@
+.deps/
+.local/
+.codex-attachments/
+build/
+**/build/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.log
+*.elf
+*.bin
+*.hex
+*.map
+*.d
+*.o
